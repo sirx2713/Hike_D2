@@ -11,6 +11,8 @@
 		2EE851B72BB6D87800CE998F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE851B62BB6D87800CE998F /* ContentView.swift */; };
 		2EE851B92BB6D87900CE998F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE851B82BB6D87900CE998F /* Assets.xcassets */; };
 		2EE851BC2BB6D87900CE998F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE851BB2BB6D87900CE998F /* Preview Assets.xcassets */; };
+		2EE851C32BB6D93A00CE998F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE851C22BB6D93A00CE998F /* CardView.swift */; };
+		2EE851C52BB6DA4C00CE998F /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE851C42BB6DA4C00CE998F /* BackgroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2EE851B62BB6D87800CE998F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EE851B82BB6D87900CE998F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EE851BB2BB6D87900CE998F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EE851C22BB6D93A00CE998F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		2EE851C42BB6DA4C00CE998F /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2EE851B42BB6D87800CE998F /* Hike_D2App.swift */,
 				2EE851B62BB6D87800CE998F /* ContentView.swift */,
+				2EE851C22BB6D93A00CE998F /* CardView.swift */,
+				2EE851C42BB6DA4C00CE998F /* BackgroundView.swift */,
 				2EE851B82BB6D87900CE998F /* Assets.xcassets */,
 				2EE851BA2BB6D87900CE998F /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EE851B72BB6D87800CE998F /* ContentView.swift in Sources */,
+				2EE851C32BB6D93A00CE998F /* CardView.swift in Sources */,
+				2EE851C52BB6DA4C00CE998F /* BackgroundView.swift in Sources */,
 				2EE851B52BB6D87800CE998F /* Hike_D2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
